@@ -1,0 +1,6 @@
+﻿syntax = "proto3";
+
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}
